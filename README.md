@@ -21,6 +21,9 @@
 <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/vsc/vsc.svg" alt="visual studio code" height="42px" style="max-width: 100%;"></a>
 <a href="https://www.npmjs.com/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="npm" height="42px" style="max-width: 100%;"></a></p>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkpn&show_icons=true)  
