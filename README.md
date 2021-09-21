@@ -9,7 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkpn&show_icons=true)  
 
-<summary>TECHNOLOGIES && TOOLS</summary> 
+#### Skills and technologies:
   <p><a href="https://en.wikipedia.org/wiki/HTML" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html.svg" alt="html5" height="42px" style="max-width: 100%;"></a>
 <a href="https://en.wikipedia.org/wiki/CSS" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css.svg" alt="css3" height="42px" style="max-width: 100%;"></a>
 <a href="https://sass-lang.com/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height="42px" style="max-width: 100%;"></a>
