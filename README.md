@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nikita
+### Hi👋 my name is Nikita
 
 📫 How to reach me: https://t.me/nk_pn or illinmikita@gmail.com 
 
