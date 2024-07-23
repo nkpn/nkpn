@@ -1,7 +1,6 @@
 ### Hi👋 my name is Nikita
 
-📫 How to reach me: https://t.me/nk_pn or illinmikita@gmail.com 
-
+📫 How to reach me: illinmikita@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikita-ilin-925548196) 
 
